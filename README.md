@@ -1,19 +1,19 @@
-# Annyeonghaseyo! I am Deep Patel! <img src="https://komarev.com/ghpvc/?username=DataWizard1631&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+# Annyeonghaseyo! I am Deep Patel! <img src="https://komarev.com/ghpvc/?username=Deeppatel40&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <div style="display:flex; height:250px; gap:10px; align-items:stretch;">
-<img src="https://komarev.com/ghpvc/?username=DataWizard1631&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Deeppatel40&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <table>
   <tr>
     <td width="33.33%" align="center">
       <img
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=DeepPatel1624&theme=radical"
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=Deeppatel40&theme=radical"
         alt="GitHub Streak"
         height="250"
       />
     </td>
     <td width="33.33%" align="center">
       <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DeepPatel1624&layout=compact&theme=radical"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deeppatel40&layout=compact&theme=radical"
         alt="Top Languages"
         height="250"
       />
