@@ -1,6 +1,6 @@
-# Annyeonghaseyo! I am Deep Patel! <img src="https://komarev.com/ghpvc/?username=Deeppatel40&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+# Annyeonghaseyo! I am Deep Patel! 
 <div style="display:flex; height:250px; gap:10px; align-items:stretch;">
-<img src="https://komarev.com/ghpvc/?username=Deeppatel40&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Deeppatel40&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> -->
 
 <table>
   <tr>
